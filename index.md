@@ -2,7 +2,7 @@
 
 Du har nå kommet frem til siden hvor nøkkelen ligger skjult.
 
-### Tema for neste oppgave er: Tallknusing
+### Tema for siste oppgave er: Tall
 
 1. Min alder i dag er tre ganger hva den vil være tre år fra nå minus tre ganger hva min alder var for tre år siden. Hvor gammel er jeg?
 2. To menn starter fra samme punkt på en stor åpen plass. Mennene går fram 4 meter i nøyaktig motsatt retning av hverandre. Der snur begge seg mot venstre og går nøyaktig 3 meter i denne retningen. Der stopper de. Og nå er spørsmålet: Hvor langt fra hverandre befinner de to seg nå?
