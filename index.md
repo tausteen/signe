@@ -8,7 +8,7 @@ Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
 - Hvilket dyr i jungelen er det kaldeste?
 
-![img](cold.JPG)
+![img](cold.jpg)
 
 #### Denne gangen trengs ingen transformering for å finne løsningsordet.
 
