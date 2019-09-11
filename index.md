@@ -1,15 +1,7 @@
-# Knallbra jobba!!
+# Du er like rå som vanlig!!
 
-Du er et steg videre i rebusen.
+Du har nå kommet frem til siden hvor nøkkelen ligger skjult.
 
-Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
+### Tema for neste oppgave er: Tallknusing
 
-### Tema for neste oppgave er: Audun's vitsehjørne
-
-- Hvilket dyr i jungelen er det kaldeste?
-
-![img](cold.jpg)
-
-#### Denne gangen trengs ingen transformering for å finne løsningsordet.
-
-#### Neste oppgave finnes på: tausteen.github.io/løsningsord
+#### Løsningen er nærmere enn du tror, men er gjerne litt tverr.
