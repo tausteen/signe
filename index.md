@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Knallbra jobba!!
 
-You can use the [editor on GitHub](https://github.com/tausteen/signe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Du er et steg videre i rebusen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hver oppgave vil gi deg en nøkkel som bringer deg nærmere målet.
 
-### Markdown
+### Tema for neste oppgave er: Audun's vitsehjørne
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Hvilket dyr i jungelen er det kaldeste?
 
-```markdown
-Syntax highlighted code block
+![img](cold.JPG)
 
-# Header 1
-## Header 2
-### Header 3
+#### Denne gangen trengs ingen transformering for å finne løsningsordet.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tausteen/signe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Neste oppgave finnes på: tausteen.github.io/løsningsord
