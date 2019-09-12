@@ -11,3 +11,6 @@ Du har nå kommet frem til siden hvor nøkkelen ligger skjult.
 #### Løsningen er nærmere enn du tror, men er nok gjerne litt tverr.
 
 #### Ha en superduper bursdag!!
+
+
+#### Glad i deg, Audun :)
